@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 13/11/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -37,7 +37,7 @@ map.html
 <font color="red"><b>vellore</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Gunasundari B (212224040093)</b></font>
+<font color="blue"><b>Sharveshwaran M (212224240150)</b></font>
 </h3>
 <center>
 <img src="map.png" usemap="#MyCity" height="610" width="1450">
